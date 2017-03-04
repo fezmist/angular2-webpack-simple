@@ -1,0 +1,1 @@
+This is a simple angular2 webpack starter template
